@@ -32,5 +32,5 @@ A hands-on guide to modern business analysis combining IIBA BABOK®, IREB CPRE, 
 -->
 ### 🌐 Connect
 - 🌍 [christonikos.zonafos.com](https://christonikos.zonafos.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/zonafos)  
+- 💼 [LinkedIn](https://linkedin.com/in/christonikoszonafos)  
 - ✍️ [Medium](https://medium.com/@zonafos)  
