@@ -7,7 +7,7 @@ Sharing practical tools and insights on Agile delivery, Requirements Engineering
 ---
 
 ### 🧭 About Me
-- 17+ years of experience delivering IT solutions for **EU institutions**, banks, and healthcare organizations.  
+- I’ve been working in IT delivery since 2006, delivering IT solutions for **EU institutions**, banks, and healthcare organizations.  
 - Passionate about **bridging strategy and technology** through clear requirements and stakeholder collaboration.  
 - Certified in **Agile, Requirements Engineering, QA, and Software Architecture**.  
 - Believer in open knowledge — sharing templates, frameworks, and playbooks for the BA community.
